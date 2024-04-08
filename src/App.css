@@ -1,0 +1,30 @@
+.counter,
+.name {
+  margin-left: 25%;
+  width: 50%;
+  padding: 20px;
+  border: 1px solid gray;
+}
+
+.diary {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input,
+textarea {
+  border: 1px solid gray;
+}
+
+input {
+  height: 30px;
+}
+
+textarea {
+  height: 200px;
+}
+
+button {
+  cursor: pointer;
+}
