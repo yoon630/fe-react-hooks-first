@@ -35,6 +35,6 @@ useEffect()를 이용하여 다음의 결과를 출력하도록 해주세요!
 <br/>
 _src/components/Name.jsx 에서 진행해주시면 됩니다!_
 
-https://user-images.githubusercontent.com/100702397/233433848-71027ac9-f7e6-488e-a7cc-efabdcbb08a1.mp4
+https://github.com/lexxsh/Like_Lion_Assignment/assets/110239629/ee2c3636-3689-4f92-88ad-04eb1553c075
 
 <br/>
