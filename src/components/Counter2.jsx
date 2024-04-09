@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 
 const Counter2 = () => {
   // 이벤트 핸들러부터 state까지 모두 스스로 작성해보시길 바랍니다!
@@ -13,7 +13,7 @@ const Counter2 = () => {
       <button>+1</button>
       <hr></hr>
       <input type={'text'}></input>
-      <h3>{/*카운트한 글자가 들어가요*/}</h3>
+      <h3>{/*입력한 글자가 들어가요*/}</h3>
     </div>
   )
 }
