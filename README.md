@@ -25,6 +25,8 @@ useEffect()를 이용하여 다음의 결과를 출력하도록 해주세요!
 3. text 입력시 콘솔에 text 값이 변경되었습니다. 출력  
    <br/>
    _src/components/Counter2.jsx 에서 진행해주시면 됩니다!_
+   
+https://github.com/lexxsh/Like_Lion_Assignment/assets/110239629/7d4eef0a-8a0a-461f-b6a4-9f02bf99aaa2
 
 <br/>
 
